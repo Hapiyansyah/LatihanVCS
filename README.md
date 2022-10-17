@@ -12,7 +12,6 @@ Selanjutnya untuk memastikan proses login Anda berhasil, masukkan perintah berik
 ```
 $ git config --list
 ```
-![nama gambar](folder/nama file.png)
 ### 2. Login Github
 Langkah kedua dalam belajar menggunakan Git adalah Anda harus login ke dalam website GitHub. Github dan Git memiliki hubungan khusus, yaitu Git yang berperan sebagai version control system dan Github menjadi hosting atau sebagai penyimpan kode pemrograman.
 Setelah Anda login, akan muncul tampilan dashboard dari GitHub seperti  gambar di bawah ini.
@@ -25,11 +24,12 @@ Anda perlu mengisi detail informasi berikut:
 2) Deskripsi Repository : berfungsi untuk deskripsi dari repository yang dibuat.
 3) Jenis Repository   : jenis repository  dibagi menjadi Public dan Private. Ketika Anda mengatur repository menjadi Public, orang lain dapat melihat repository yang Anda buat. Sebaliknya, jika Anda mengaturnya sebagai Private, repository tersebut hanya bisa diakses oleh Anda.
 Setelah mengisi detail informasi di atas, klik Create Repository.
+![vcs1](foto/vcs1.png)
 ### 4. Buat Folder pada Windows
 Selanjutnya, Anda perlu membuat folder pada local disk komputer Anda. Fungsinya adalah untuk menyimpan update file dari repository GitHub yang telah Anda buat.
 ### 5. Buka Folder Menggunakan Git Bash
 Setelah berhasil membuat folder pada local disk komputer Anda,  buka folder tersebut dengan cara klik kanan lalu pilih Git Bash Here. Setelah itu, Command Prompt akan muncul seperti di bawah ini. 
-cara install git
+![vcs3](foto/vcs3.png)
 ### 6. Ubah Folder Menjadi Repository
 Setelah itu, ubah folder tersebut menjadi repository menggunakan perintah berikut:
 ```
@@ -55,3 +55,6 @@ git remote add origin https://github.com/Hapiyansyah/LatihanVCS.git
 git branch -M main
 git push -u origin main
 ```
+![vcs4](foto/vcs4.png)
+![vcs2](foto/vcs2.png)
+### 10. selesai
