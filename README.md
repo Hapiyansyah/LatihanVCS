@@ -12,7 +12,7 @@ Selanjutnya untuk memastikan proses login Anda berhasil, masukkan perintah berik
 ```
 $ git config --list
 ```
-cara install git
+![nama gambar](folder/nama file.png)
 ### 2. Login Github
 Langkah kedua dalam belajar menggunakan Git adalah Anda harus login ke dalam website GitHub. Github dan Git memiliki hubungan khusus, yaitu Git yang berperan sebagai version control system dan Github menjadi hosting atau sebagai penyimpan kode pemrograman.
 Setelah Anda login, akan muncul tampilan dashboard dari GitHub seperti  gambar di bawah ini.
