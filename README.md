@@ -29,6 +29,7 @@ Setelah mengisi detail informasi di atas, klik Create Repository.
 Selanjutnya, Anda perlu membuat folder pada local disk komputer Anda. Fungsinya adalah untuk menyimpan update file dari repository GitHub yang telah Anda buat.
 ### 5. Buka Folder Menggunakan Git Bash
 Setelah berhasil membuat folder pada local disk komputer Anda,  buka folder tersebut dengan cara klik kanan lalu pilih Git Bash Here. Setelah itu, Command Prompt akan muncul seperti di bawah ini. 
+
 ![vcs3](foto/vcs3.png)
 ### 6. Ubah Folder Menjadi Repository
 Setelah itu, ubah folder tersebut menjadi repository menggunakan perintah berikut:
