@@ -36,10 +36,10 @@ $ git init
 ```
 ### 7. Tambahkan File ke Repository
 Untuk bisa menambahkan file ke repository GitHub, Anda perlu menerapkan langkah-langkah di bawah ini:
-1) Buat file di folder yang sudah dibuat (Test Git). Contohnya, di sini kami membuat file index.php
+1) Buat file di folder yang sudah dibuat (Test Git). Contohnya, di sini kami membuat file index.python
 2) Buka GitBash lalu masukkan perintah berikut:
 ```
-$ git add index.php
+$ git add index.python
 ```
 Perintah tersebut tidak akan menghasilkan output apa pun.
 ### 8. Buat Commit 
